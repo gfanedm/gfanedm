@@ -1,16 +1,35 @@
-### Hi there 👋
+## About Me :wave:
 
-<!--
-**gfanedm/gfanedm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! :smile: My name is Guilherme Fane. I'm a 21-year-old web developer that currently reside in Cagliari, Italy. I'm looking for projects to contribute to and people to collaborate with! I'm a big proponent of putting an emphasis on accessibility and user experience in web development.
 
-Here are some ideas to get you started:
+I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:gfanedm@gmail.com) if that sounds like your cup of tea. :coffee:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website](https://gfanedm.dev)
+📷 [instagram](https://www.instagram.com/fane.jpg)
+👔 [linkedin](https://www.linkedin.com/in/guilhermefane/)
+
+## Skills
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```typescript
+function dev() {
+ const name = "Guilherme Fane"
+ const stack = "Fullstack"
+ 
+ const languages = ["Java", "Python", "JavaScript", "TypeScript",
+ "HTML", "CSS", "PHP", "C", "C#", "C++", "Go"]
+}
+```
+
+## **GitHub Stats**
+
+<a href="https://github.com/gfanedm">
+  <img align="center" src="https://github.com/gfanedm/github-stats/blob/master/generated/languages.svg" />
+</a>
+
+<a href="https://github.com/gfanedm">
+ <img align="center" src="https://github.com/gfanedm/github-stats/blob/master/generated/overview.svg"/>
+</a>
+
