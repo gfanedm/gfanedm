@@ -1,6 +1,7 @@
 ## About Me :wave:
 
-Hey there! :smile: My name is Guilherme Fane. I'm a 21-year-old web developer that currently reside in Cagliari, Italy. I'm looking for projects to contribute to and people to collaborate with! I'm a big proponent of putting an emphasis on accessibility and user experience in web development.
+Hey there! :smile: My name is Guilherme Fane. I'm a 21-year-old web developer that currently reside in Amsterdam, The Netherlands
+. I'm looking for projects to contribute to and people to collaborate with! I'm a big proponent of putting an emphasis on accessibility and user experience in web development.
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:gfanedm@gmail.com) if that sounds like your cup of tea. :coffee:
 
@@ -17,6 +18,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 function dev() {
  const name = "Guilherme Fane"
  const stack = "Fullstack"
+ const company = "Vectary Inc."
  
  const languages = ["Java", "Python", "JavaScript", "TypeScript",
  "HTML", "CSS", "PHP", "C", "C#", "C++", "Go"]
